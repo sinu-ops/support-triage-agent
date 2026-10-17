@@ -47,7 +47,7 @@ python --version
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/support-triage-agent.git
+git clone https://github.com/sinu-ops/support-triage-agent.git
 cd support-triage-agent
 
 # Create virtual environment
@@ -128,7 +128,7 @@ Contributions welcome! Please feel free to submit a Pull Request.
 
 ## 👤 Author
 
-**Your Name** - [GitHub](https://github.com/YOUR_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+**Sagar Sapkale** - [GitHub](https://github.com/sinu-ops) | [LinkedIn](https://www.linkedin.com/in/sagar-sapkale-0a67a231b/)
 
 ## 🙏 Acknowledgments
 
